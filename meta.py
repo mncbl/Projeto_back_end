@@ -9,6 +9,7 @@ ds = pydicom.dcmread(arquivo_dicom)
 ds.PatientName = "JOAQUIM SEXO"
 ds.PatientID = "66666"
 
+ds.saveas("foto.dcm")
 # Exibe os metadados
 print(ds)
 
