@@ -6,11 +6,13 @@ arquivo_dicom = 'SPECT_1h.dcm'
 # Lê o arquivo DICOM
 ds = pydicom.dcmread(arquivo_dicom)
 
-ds.PatientName = "JOAQUIM SEXO"
-ds.PatientID = "66666"
+ds.PatientSex = "   "
 
-ds.saveas("foto.dcm")
-# Exibe os metadados
-print(ds)
+ds.save_as('foto.dcm')
+o = 'foto.dcm'
+o = pydicom.dcmread(o)
+print(o)
+
+
 
 
