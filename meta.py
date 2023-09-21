@@ -10,11 +10,11 @@ ds = pydicom.dcmread(arquivo_dicom)
 ds.PatientSex = "  "
 
 
-
 ds.save_as('foto.dcm')
 o = 'foto.dcm'
 o = pydicom.dcmread(o)
 print(o)
+
 
 
 
