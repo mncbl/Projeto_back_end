@@ -4,7 +4,7 @@ import SimpleITK as sitk
 import os
 
 # Replace this with the path to your DICOM file
-dicom_file_path = "./inputs/SPECT_1h.dcm"
+dicom_file_path = "./uploads/anonimizado_SPECT_24h.dcm"
 
 # Carregar a imagem DICOM 3D
 image = sitk.ReadImage(dicom_file_path)
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         segmentation = sitk.BinaryThreshold(image, lower_threshold, upper_threshold, 1, 0)
 
         # Save the segmented image as NRRD
-        save_directory = r'C:\Users\BADU\Desktop\gith\back_end\segmentacao'
+        save_directory = r'./segmentacao'
         save_path_nrrd = os.path.join(save_directory, 'segmented_image.nrrd')
         sitk.WriteImage(segmentation, save_path_nrrd)
 
