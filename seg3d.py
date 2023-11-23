@@ -1,21 +1,13 @@
 import pydicom
+import matplotlib.pyplot as plt
 import SimpleITK as sitk
 import os
 
 # Replace this with the path to your DICOM file
-dicom_file_path = "./uploads/anonymized_SPECT_24h.dcm"
+dicom_file_path = "./uploads/SPECT_24h.dcm"
 
-# Anonymization function
-def anonymize_dicom(input_path, output_path):
-    ds = pydicom.dcmread(input_path)
-    
-    # Anonymize patient information (replace with dummy values)
-    ds.PatientName = "Anonymous"
-    ds.PatientID = "123456"
-    # Add more tags to anonymize as needed
-
-    # Save anonymized DICOM file
-    ds.save_as(output_path)
+# Carregar a imagem DICOM 3D
+image = sitk.ReadImage(dicom_file_path)
 
 def read_dicom_file(filename):
     try:
@@ -31,13 +23,6 @@ def preprocess_image(image):
     return image
 
 if __name__ == "__main__":
-
-    # Anonymize the DICOM file
-    anonymized_dicom_path = "./uploads/anonymized_SPECT_24h.dcm"
-    anonymize_dicom(dicom_file_path, anonymized_dicom_path)
-
-    # Load the anonymized DICOM file
-    image = sitk.ReadImage(anonymized_dicom_path)
 
     if image is not None:
         # Preprocess the image
