@@ -1,3 +1,5 @@
+# 🔰 Introdução
+Projeto de Anonimização e Segmentação de imagens DICOM(.dcm) através da proposta da empresa Dosimagem filiado a universidade IBMEC-RJ. 
 
 # 👱 Colaboradores
 
@@ -16,8 +18,11 @@
 3. 3dSlicer : Software utilizado para vizualizar imagem nearly raw raster data(.nnrd) segmentada em 3D
 4. ImageJ : Software utilizado para vizuliar os metadados e imagem no formato DICOM(.dcm) 
 5. SympleITK : Biblioteca utilzada para segmentar a imagem DICOM(.dcm)
+6. Trello : Software utilizado para 
+
+# História do Projeto
    
-# 💥 Proposta do Trabalho
+## 💥 Proposta do Trabalho
 
 A empresa Dosimagem realizou um pedido para os alunos da ibmec realizarem um programa em Python com o objetivo de anonimizar e segmentar imagens DICOM. O programa tem como propostar ampliar o conhecimentos dos alunos e ampliar novos horizontes para a empresa Dosimagem utilizar caso achar interessante determinado proposta de grupo.
 
@@ -29,10 +34,15 @@ Portanto, há a necessidade de criação de uma API REST que possa receber image
 - `Problema 2`: A Dosimagem utiliza a ferramenta 3D Slicer para realizar as segmentações dos órgãos. No 3D Slicer, há uma ferramenta chamada TotalSegmentatorAI, que é capaz de realizar a segmentação de forma automática dos órgãos em poucos minutos.
 A ideia, neste caso, seria desenvolver uma API REST que possa receber imagens no formato DICOM e seja capaz de segmentá-las automaticamente.
       
+## 📋Organização da equipe
+
+Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a metodoligia de ScranBanBoard na organização das nossas tarefas para buscar melhorias e vizualizar as tarefas que estavam pendentes ou finalizadas.
+
+* [Link para ScranBanBoard](#(https://trello.com/b/oZ4yhTO5/back-end))
 
 # Link Trello
 
-https://trello.com/b/oZ4yhTO5/back-end
+
 
 # Link Canva
 
