@@ -46,3 +46,4 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
   - `IDE` A IDE utilizada do projeto foi o VSCODE porém pode utilizar a IDE de seu gosto. [Link para Dowload VSCODE](https://code.visualstudio.com/download)
   -  `Insomnia` [Link para Download Insomnia](https://insomnia.rest/download)
   -  `3DSlicer`[Link para Download 3DSlicer](https://download.slicer.org)
+  -  `Python`[Link para Dowload Python](https://www.python.org/downloads/)
