@@ -40,7 +40,7 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
 
 [Link para Scrum/Kanban](https://trello.com/b/oZ4yhTO5/back-end)
 
-# 🤔 Como utilizar o Projeto ?
+# 🤔 Como utilizar na Prática ?
 
 ## 0. O usuário deve possuir na máquina na qual esta utilizando os seguintes softwares instalados:   
   - `IDE` A IDE utilizada do projeto foi o VSCODE porém pode utilizar a IDE de seu gosto. [Link para Dowload VSCODE](https://code.visualstudio.com/download)
