@@ -50,7 +50,15 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
 
 ## 1. O usuário deve instalar e descompactar o software na máquina.
       1. O usuário baixa o software
-      2. Após baixar o arquivo o usuário descompacta o arquivo
+      2. Após baixar o arquivo o usuário deve descompacta o arquivo
 [Baixe Aqui o Arquivo](https://github.com/mncbl/Projeto_back_end/files/13516656/Software.zip)
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9
+
+## 2. O usuário deve abrir o software em sua IDE
+
+      1. O usuário deve inicializar a IDE.
+      2. Após inicializar sua IDE deve-se abrir o software dentro da IDE.
+      3. Verifique se está semelhante a imagem abaixo.
+
+https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20
