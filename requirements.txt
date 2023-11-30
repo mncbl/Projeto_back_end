@@ -1,0 +1,6 @@
+pydicom
+Flask
+scikit-image
+matplotlib
+numpy
+SimpleITK
