@@ -49,10 +49,7 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
   -  `Python` [Link para Dowload ](https://www.python.org/downloads/)
 
 ## 1. O usuário deve instalar e descompactar o software na máquina.
-
+      1. O usuário baixa o software
+      2. Após baixar o arquivo o usuário descompacta o arquivo
+[Baixe Aqui o Arquivo](https://github.com/mncbl/Projeto_back_end/files/13516656/Software.zip)
 https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9
-
-[Baixe Aqui](https://github.com/mncbl/Projeto_back_end/files/13516656/Software.zip)
-
-
-
