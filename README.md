@@ -24,9 +24,9 @@ Projeto de Anonimização e Segmentação de imagens DICOM(.dcm) através da pro
    
 ## 💥 Proposta do Trabalho
 
-A empresa Dosimagem realizou um pedido para os alunos da ibmec realizarem um programa em Python com o objetivo de anonimizar e segmentar imagens DICOM. O programa tem como propostar ampliar o conhecimentos dos alunos e ampliar novos horizontes para a empresa Dosimagem utilizar caso achar interessante determinado proposta de grupo.
+A empresa Dosimagem realizou um pedido aos alunos da IBMEC realizarem um software em Python com o objetivo de anonimizar e segmentar imagens DICOM. O projeto teve como proposta ampliar os conhecimentos dos alunos e ampliar novos horizontes para a empresa Dosimagem utilizar no prática.
 
-O projeto foi dividido em dois casos no qual denominamos como : 
+### O projeto foi dividido em dois casos no qual denominamos como : 
 
 - `Problema 1`: Os laboratórios que solicitam serviços de dosimetria à Dosimagem precisam anonimizar os metadados das imagens submetidas, em respeito à Lei Geral de Proteção de Dados (LGPD). Essa tarefa toma tempo dos responsáveis pelos laboratórios e atrasa o início do trabalho da Dosimagem, uma vez que nem todos os seus clientes têm o conhecimento necessário para realizar tal tarefa.
 Portanto, há a necessidade de criação de uma API REST que possa receber imagens no formato DICOM e seja capaz de anonimizar seus metadados, tais como o nome do paciente, sua data de nascimento e quaisquer outros metadados que possam ser considerados sensíveis.       
