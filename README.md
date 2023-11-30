@@ -39,11 +39,3 @@ A ideia, neste caso, seria desenvolver uma API REST que possa receber imagens no
 Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a metodoligia de Scrum/Kanban na organização das nossas tarefas para buscar melhorias e vizualizar as tarefas que estavam pendentes ou finalizadas.
 
 [Link para Scrum/Kanban](https://trello.com/b/oZ4yhTO5/back-end)
-
-# Link Trello
-
-
-
-# Link Canva
-
-https://www.canva.com/design/DAFzreym8rk/32ciDEFJMRzHEn1bGP0ALQ/edit?utm_content=DAFzreym8rk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
