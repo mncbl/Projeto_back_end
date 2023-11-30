@@ -47,3 +47,9 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
   -  `Insomnia` [Link para Download ](https://insomnia.rest/download)
   -  `3DSlicer` [Link para Download ](https://download.slicer.org)
   -  `Python` [Link para Dowload ](https://www.python.org/downloads/)
+
+## 1. O usuário deve instalar e descompactar o software e executa-lo na sua IDE.
+
+[Baixe Aqui](https://github.com/mncbl/Projeto_back_end/files/13516584/Software.zip)
+
+
