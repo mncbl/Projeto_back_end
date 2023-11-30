@@ -18,7 +18,7 @@ Projeto de Anonimização e Segmentação de imagens DICOM(.dcm) através da pro
 3. 3dSlicer : Software utilizado para vizualizar imagem nearly raw raster data(.nnrd) segmentada em 3D
 4. ImageJ : Software utilizado para vizuliar os metadados e imagem no formato DICOM(.dcm) 
 5. SympleITK : Biblioteca utilzada para segmentar a imagem DICOM(.dcm)
-6. Trello : Software utilizado para 
+6. Trello : Software utilizado para organização de tarefas.
 
 # História do Projeto
    
@@ -36,9 +36,9 @@ A ideia, neste caso, seria desenvolver uma API REST que possa receber imagens no
       
 ## 📋Organização da equipe
 
-Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a metodoligia de ScranBanBoard na organização das nossas tarefas para buscar melhorias e vizualizar as tarefas que estavam pendentes ou finalizadas.
+Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a metodoligia de Scrum/Kanban na organização das nossas tarefas para buscar melhorias e vizualizar as tarefas que estavam pendentes ou finalizadas.
 
-* [Link para ScranBanBoard](#(https://trello.com/b/oZ4yhTO5/back-end))
+[Link para Scrum/Kanban](https://trello.com/b/oZ4yhTO5/back-end)
 
 # Link Trello
 
