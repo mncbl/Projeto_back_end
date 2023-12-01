@@ -53,7 +53,7 @@ Esta etapa tem como objetivo instalar o software do nosso projeto junto com as i
 
    - `1`. O usuário baixa o software
    - `2`. Após baixar o arquivo o usuário deve descompacta o arquivo
-   - 
+
 [Baixe Aqui o Arquivo](https://github.com/mncbl/Projeto_back_end/files/13531238/Software.zip)
 
 ### Video de Demonstração
