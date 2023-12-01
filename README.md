@@ -90,6 +90,8 @@ Esta etapa tem como objetivo instalar bibliotecas no qual a linguagem Python nã
    ### Comando para verificar os arquivos
       ls
 
+### Video de Demonstração
+
 https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92d4-072ab96ba0a5
 
 ## 4. Inicializar a Software para a anonimização dos metadados e configurar o Insomia para o software
@@ -122,11 +124,7 @@ Esta etapa tem como objetivo realizar a operação para anonimizar dados sensív
    - `4`.  Após selecionar um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs),selecione o botão Send para gerar uma imagem DICOM com alguns dados sensíveis anonimizados.
 
    Observação : Se olhar o console no qual o arquivo meta.py será gerada estas informações e a criação da imagem DICOM anonimizada onde sera armazenada na pasta uploads do software
-   
-### Video Demonstração
-
-https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-abd3-696cc6807688
- 
+    
 ### Respsota do Console
    
 ![Passo 5.1 ](https://github.com/mncbl/Projeto_back_end/assets/101721101/38a7c49b-a9f1-4970-b54e-48625d3f94d5)
@@ -135,3 +133,6 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-ab
    
 ![Passo 5 2](https://github.com/mncbl/Projeto_back_end/assets/101721101/8820ac62-a5d5-43d8-b5a3-c898d8263e63)
 
+### Video Demonstração
+
+https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-abd3-696cc6807688
