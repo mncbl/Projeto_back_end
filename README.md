@@ -61,6 +61,6 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
       2. Após inicializar sua IDE deve-se abrir o software dentro da IDE.
       3. Verifique se está semelhante a imagem abaixo.
 
-https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20
+[Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
 
 
