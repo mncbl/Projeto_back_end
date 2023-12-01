@@ -81,11 +81,15 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
 https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92d4-072ab96ba0a5
 
 ## 4. Inicializar a Software para a anonimização dos metadados e configurar o Insomia para o software
+
    - `1`. Inicializar/Compilar o arquivo meta.py. 
    - `2`. Após inicializar o progrma execute o aplicativo Insomnia. 
    - `3`. Após inicializar o Insomnia clique na opção New Collection e de um nome a sua Collection.
    - `4`. Após criar seu Prompt clique no nome do seu arquivo (no video Anonimização)localizado no canto superior esquerdo da tela.
-   - `4`. Após clicar no nome do seu Prompt clique na opção Import.
-   - `5`. Após clicar na opção Import importe o arquivo destacado abaixo para importar todo a configuração do Prompt utilzado no projeto.
+   - `5`. Após clicar no nome do seu Prompt clique na opção Import.
+   - `6`. Após clicar na opção Import baixe e importe o arquivo destacado abaixo para configurar o Prompt utilzado no projeto.
 
+[Arquivo Prompt Insomina](https://github.com/mncbl/Projeto_back_end/files/13531454/Insomnia_2023-11-30.zip)
+![Imagem de demonstração ao arquivo meta.py incializado no console](https://github.com/mncbl/Projeto_back_end/assets/101721101/e9b8da0f-ca99-4538-855d-130bc8c19ab2)
 
+https://github.com/mncbl/Projeto_back_end/assets/101721101/8832e7ef-325b-49b1-aa1a-ff704bd7d09a
