@@ -94,3 +94,16 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92
 [Imagem de demonstração ao arquivo meta.py incializado no console](https://github.com/mncbl/Projeto_back_end/assets/101721101/e9b8da0f-ca99-4538-855d-130bc8c19ab2)
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/8832e7ef-325b-49b1-aa1a-ff704bd7d09a
+
+## 5. Anonimizar dados sensíveis de determinada imagem DICOM
+
+   - `1`.  Clicar no filter POST. 
+   - `2`.  Após clicar no botao filter POST, clique no quadrado onde possui um arquivo como demostração de Exemplo (SPECT_1h.dcm).
+   - `3`.  Após clicar no arquivo como demostração de Exemplo (SPECT_1h.dcm), seleciona um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs).
+   - `4`.  Após selecionar um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs),selecione o botão Send para gerar uma imagem DICOM com alguns dados sensíveis anonimizados.
+   Observação : Se olhar o console no qual o arquivo meta.py esta inicializado esta informações e a imagem anonimizada sera gerada na pasta uploads do nosso arquivo:
+
+   ![Passo 5.1 ](https://github.com/mncbl/Projeto_back_end/assets/101721101/38a7c49b-a9f1-4970-b54e-48625d3f94d5)
+
+   
+    
