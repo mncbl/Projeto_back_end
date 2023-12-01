@@ -75,7 +75,7 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
    ### Comando de Instalação bibliotecas
       pip install -r requirements.txt
 
-   ### Comando para verificar o arquivo
+   ### Comando para verificar os arquivos
       ls
 
-
+https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92d4-072ab96ba0a5
