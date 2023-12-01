@@ -49,26 +49,25 @@ Com a alta demanda de tarefas no percurso deste projeto decidimos utilizar a met
   -  `Python` [Link para Dowload ](https://www.python.org/downloads/)
 
 ## 1. O usuário deve instalar e descompactar o software na máquina.
-      1. O usuário baixa o software
-      2. Após baixar o arquivo o usuário deve descompacta o arquivo
+   - 1. O usuário baixa o software
+   - 2. Após baixar o arquivo o usuário deve descompacta o arquivo
 [Baixe Aqui o Arquivo](https://github.com/mncbl/Projeto_back_end/files/13516656/Software.zip)
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9
 
 ## 2. O usuário deve abrir o software em sua IDE
 
-      1. O usuário deve inicializar a IDE.
-      2. Após inicializar sua IDE deve-se abrir o software dentro da IDE.
-      3. Verifique se está semelhante a imagem abaixo.
+   - 1. O usuário deve inicializar a IDE.
+   - 2. Após inicializar sua IDE deve-se abrir o software dentro da IDE.
+   - 3. Verifique se está semelhante a imagem abaixo.
 
 [Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
 
    ## 3. Instalar bibliotecas do software
-
-         1. Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software
-         Ex: C:\Users\nome_usuario\Desktop\Projeto_back_end-main
-         2. Após inicializar Powersheel ou Prompt de Comando (cmd) no endereco pasta do arquivo copie o comando abaixo de video e cole na liha de comando 
-         3. Aguarde a instalação das bibliotecas e verifique se a instalação foi concluida
+   - 1. Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software
+     Ex: C:\Users\nome_usuario\Desktop\Projeto_back_end-main
+   - 2. Após inicializar Powersheel ou Prompt de Comando (cmd) no endereco pasta do arquivo copie o comando abaixo de video e cole na liha de comando 
+   - 3. Aguarde a instalação das bibliotecas e verifique se a instalação foi concluida
 
    ### Comando para direcionar caminho do arquivo
       cd C:\endereco\arquivo   
