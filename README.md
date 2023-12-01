@@ -64,10 +64,10 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
 [Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
 
    ## 3. Instalar bibliotecas do software
-   - `1`. Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software
-     Ex: C:\Users\nome_usuario\Desktop\Projeto_back_end-main
-   - `2`. Após inicializar Powersheel ou Prompt de Comando (cmd) no endereco pasta do arquivo copie o comando abaixo de video e cole na liha de comando 
-   - `3`. Aguarde a instalação das bibliotecas e verifique se a instalação foi concluida
+   - `1`. Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software.
+     Ex: C:\Users\nome_usuario\Desktop\Projeto_back_end-main.
+   - `2`. Após inicializar Powersheel ou Prompt de Comando (cmd) no endereco pasta do arquivo copie o comando abaixo de video e cole na liha de comando. 
+   - `3`. Aguarde a instalação das bibliotecas e verifique se a instalação foi concluida.
 
    ### Comando para direcionar caminho do arquivo
       cd C:\endereco\arquivo   
@@ -79,3 +79,13 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
       ls
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92d4-072ab96ba0a5
+
+## 4. Inicializar a Software para a anonimização dos metadados e configurar o Insomia para o software
+   - `1`. Inicializar/Compilar o arquivo meta.py. 
+   - `2`. Após inicializar o progrma execute o aplicativo Insomnia. 
+   - `3`. Após inicializar o Insomnia clique na opção New Collection e de um nome a sua Collection.
+   - `4`. Após criar seu Prompt clique no nome do seu arquivo (no video Anonimização)localizado no canto superior esquerdo da tela.
+   - `4`. Após clicar no nome do seu Prompt clique na opção Import.
+   - `5`. Após clicar na opção Import importe o arquivo destacado abaixo para importar todo a configuração do Prompt utilzado no projeto.
+
+
