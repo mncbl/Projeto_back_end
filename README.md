@@ -61,7 +61,7 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
    - `2`. Após inicializar sua IDE deve-se abrir o software dentro da IDE.
    - `3`. Verifique se está semelhante a imagem abaixo.
 
-[Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
+![Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
 
    ## 3. Instalar bibliotecas do software
    - `1`. Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software.
@@ -90,6 +90,6 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92
    - `6`. Após clicar na opção Import baixe e importe o arquivo destacado abaixo para configurar o Prompt utilzado no projeto.
 
 [Arquivo Prompt Insomina](https://github.com/mncbl/Projeto_back_end/files/13531454/Insomnia_2023-11-30.zip)
-![Imagem de demonstração ao arquivo meta.py incializado no console](https://github.com/mncbl/Projeto_back_end/assets/101721101/e9b8da0f-ca99-4538-855d-130bc8c19ab2)
+[Imagem de demonstração ao arquivo meta.py incializado no console](https://github.com/mncbl/Projeto_back_end/assets/101721101/e9b8da0f-ca99-4538-855d-130bc8c19ab2)
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/8832e7ef-325b-49b1-aa1a-ff704bd7d09a
