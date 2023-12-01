@@ -101,9 +101,15 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/8832e7ef-325b-49b1-aa
    - `2`.  Após clicar no botao filter POST, clique no quadrado onde possui um arquivo como demostração de Exemplo (SPECT_1h.dcm).
    - `3`.  Após clicar no arquivo como demostração de Exemplo (SPECT_1h.dcm), seleciona um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs).
    - `4`.  Após selecionar um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs),selecione o botão Send para gerar uma imagem DICOM com alguns dados sensíveis anonimizados.
-   Observação : Se olhar o console no qual o arquivo meta.py esta inicializado esta informações e a imagem anonimizada sera gerada na pasta uploads do nosso arquivo:
 
+   Observação : Se olhar o console no qual o arquivo meta.py será gerada estas informações e a criação da imagem DICOM anonimizada onde sera armazenada na pasta uploads do software
+   
+   ### Respsota do Console
+   
    ![Passo 5.1 ](https://github.com/mncbl/Projeto_back_end/assets/101721101/38a7c49b-a9f1-4970-b54e-48625d3f94d5)
 
+   ### Arquivo Gerado na pasta Uploads
    
-    
+   ![Passo 5 2](https://github.com/mncbl/Projeto_back_end/assets/101721101/8820ac62-a5d5-43d8-b5a3-c898d8263e63)
+
+   https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-abd3-696cc6807688
