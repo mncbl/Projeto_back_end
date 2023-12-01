@@ -63,4 +63,17 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a2
 
 [Imagem de demonstração](https://github.com/mncbl/Projeto_back_end/assets/101721101/6448c4fd-852a-4a45-a37a-964246b43f20)
 
+   ## 3. Instalar bibliotecas do software
+
+         1.Inicializar o Powersheel ou Prompt de Comando (cmd) no caminho da pasta do software
+         Ex:C:\Users\nome_usuario\Desktop\Projeto_back_end-main
+         2. Após inicializar Powersheel ou Prompt de Comando (cmd) no endereco pasta do arquivo copie o comando abaixo de video e cole na liha de comando 
+         3. Aguarde a instalação das bibliotecas e verifique se a instalação foi concluida
+
+   ### Comando para direcionar caminho do arquivo
+      ls C:\Users\endereco-arquivo   
+      
+   ### Comando de Instalação bibliotecas
+      pip install -r requirements.txt
+
 
