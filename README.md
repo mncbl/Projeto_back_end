@@ -108,7 +108,7 @@ Esta etapa tem como objetivo inicializar a API de anonimização e configurar o 
 
 ### Arquivo Prompt Insomnia
 
-[Download Arquivo](https://github.com/mncbl/Projeto_back_end/files/13531454/Insomnia_2023-11-30.zip)
+[Download Arquivo](https://github.com/mncbl/Projeto_back_end/files/13532863/Insomnia_2023-12-01.zip)
 
 ### Imagem demonstração console
 
