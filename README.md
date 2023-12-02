@@ -128,7 +128,7 @@ Esta etapa tem como objetivo realizar a operação para anonimizar dados sensív
 
    Observação : Se olhar o console no qual o arquivo meta.py será gerada estas informações e a criação da imagem DICOM anonimizada onde sera armazenada na pasta uploads do software
     
-### Respsota do Console
+### Resposta do Console
    
 ![Passo 5.1 ](https://github.com/mncbl/Projeto_back_end/assets/101721101/38a7c49b-a9f1-4970-b54e-48625d3f94d5)
 
@@ -139,3 +139,23 @@ Esta etapa tem como objetivo realizar a operação para anonimizar dados sensív
 ### Video de Demonstração
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-abd3-696cc6807688
+
+## 6. Segmentação de Imagens DICOM
+   
+   - `1`. Retorne para a IDE onde esta aberto o software. 
+   - `2`. Após retornar a IDE selecione o arquivo seg3d.py. 
+   - `3`. Após selecionar o arquivo seg3d.py na linha 7 do código implemente o caminho da imagem anonimizada dentro das aspas.
+     Ex: ./uploads/SPECT_1H.dcm (./uploads/nome-do-arquivo.dcm). 
+   - `3`. Após implementar o caminho da imagem anonimizada inicializa/compile o código.
+
+   Observação : Quando compilado o código gera um arquivo chamado segmented_image.nnrd na pasta segmentacao (onde ela esta anonimizada e segmentada).
+
+   ### Local de implementar endereço de imagem
+   
+   ![Passo 6 2](https://github.com/mncbl/Projeto_back_end/assets/101721101/344b5343-9a8a-4072-8656-8beec4aa6465)
+
+   ### Arquivo Gerado na pasta segmentacao
+   
+   ![Passo 6 1](https://github.com/mncbl/Projeto_back_end/assets/101721101/6e854f58-7b3a-4371-b37e-f6962f5d541a)
+   
+   
