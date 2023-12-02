@@ -177,8 +177,12 @@ Esta etapa tem como objetivo importar a imagem segmentada para realizar a vizual
 Observação: Quando realizado esta etapa o usuário consegue vizualizar a imagem segmentada e podendo vela a partir das cores vermelho,verde e amarelo. 
 
 ### Exemplo Imagem Segmentada
- 
+
+ ![Passo 7 1](https://github.com/mncbl/Projeto_back_end/assets/101721101/138cf222-3566-465c-a748-0fbefffc43cd)
+
 ### Video Demonstração
+
+https://github.com/mncbl/Projeto_back_end/assets/101721101/7eabbdad-b491-4e23-8b3f-f164745439ae
 
 
  
