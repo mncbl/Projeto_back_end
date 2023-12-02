@@ -141,7 +141,9 @@ Esta etapa tem como objetivo realizar a operação para anonimizar dados sensív
 https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-abd3-696cc6807688
 
 ## 6. Segmentação de Imagens DICOM
-   
+
+Esta etapa tem como objetivo importar a imagem em formato DICOM(.dcm) e segmentar a imagem para o formato Nearly Raw Raster Data (.nrrd).
+
    - `1`. Retorne para a IDE onde esta aberto o software. 
    - `2`. Após retornar a IDE selecione o arquivo seg3d.py. 
    - `3`. Após selecionar o arquivo seg3d.py na linha 7 do código implemente o caminho da imagem anonimizada dentro das aspas.
@@ -161,3 +163,23 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/197ec963-59fd-4a33-ab
    ### Video de Demonstração
 
    https://github.com/mncbl/Projeto_back_end/assets/101721101/2e9ed141-21c2-4a4d-89df-7aa6d45751d7
+
+## 7. Vizualizar imagem segmentada
+
+Esta etapa tem como objetivo importar a imagem segmentada para realizar a vizualização na ferramenta 3DSlicer.
+
+ - `1`. Inicialize a ferramenta do 3DSlicer.
+ - `2`. Após inicializar a ferramenta do 3DSlicer selecione no canto superior esquerdo o botão possuindo uma pasta chamada DATA.
+ - `3`. Após selecionar no canto superior esquerdo o botão possuindo uma pasta chamada DATA selecione o botão chamdo Choose File(s) to Add.
+ - `4`. Após selecionar a botão Choose File(s) to Add adicione o arquivo contendo a imagem segmentada e anonimizada. 
+ - `5`. Após adicionarr o arquivo contendo a imagem segmentada e anonimizada selecione o boão Ok.
+
+Observação: Quando realizado esta etapa o usuário consegue vizualizar a imagem segmentada e podendo vela a partir das cores vermelho,verde e amarelo. 
+
+### Exemplo Imagem Segmentada
+ 
+### Video Demonstração
+
+
+ 
+    
