@@ -185,5 +185,14 @@ Observação: Quando realizado esta etapa o usuário consegue vizualizar a image
 https://github.com/mncbl/Projeto_back_end/assets/101721101/7eabbdad-b491-4e23-8b3f-f164745439ae
 
 
- 
-    
+## 8. Vizualizar os Metadados
+
+- `1`. Selecione no canto superior esquerdo o botão possuindo uma pasta chamada DCM.
+- `2`. Após selecionar no canto superior esquerdo o botão possuindo uma pasta chamada DCM selecione um PatientName (nesse caso Anonymous) com o botão direito e escolha o opção View DICOM Metadata.
+
+Observação: Quando realizado esta etapa o usuário consegue vizualizar os metadados da imagem segmentada. 
+
+
+### Video Demonstração
+
+https://github.com/mncbl/Projeto_back_end/assets/101721101/6abfe270-4a24-4f0b-9161-de023be0e46e
