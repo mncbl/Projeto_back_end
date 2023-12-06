@@ -100,11 +100,11 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/36b35e61-b945-4ddc-92
 Esta etapa tem como objetivo inicializar a API de anonimização e configurar o software Insomnia na utilização da API.
 
    - `1`. Inicializar/Compilar o arquivo meta.py. 
-   - `2`. Após inicializar o progrma execute o aplicativo Insomnia. 
-   - `3`. Após inicializar o Insomnia clique na opção New Collection e de um nome a sua Collection.
-   - `4`. Após criar seu Prompt clique no nome do seu arquivo (no video Anonimização)localizado no canto superior esquerdo da tela.
-   - `5`. Após clicar no nome do seu Prompt clique na opção Import.
-   - `6`. Após clicar na opção Import baixe e importe o arquivo destacado abaixo para configurar o Prompt utilzado no projeto.
+   - `2`. Após inicializar o programa execute o aplicativo Insomnia. 
+   - `3`. Após inicializar o Insomnia selecione na opção New Collection e de um nome a sua Collection.
+   - `4`. Após criar seu Collection selecione no nome do seu arquivo (no video Anonimização)localizado no canto superior esquerdo da tela.
+   - `5`. Após selecionar o nome da sua Collection selecione na opção Import.
+   - `6`. Após selecionar na opção Import baixe e importe o arquivo destacado abaixo para configurar o Prompt utilzado no projeto.
 
 ### Arquivo Prompt Insomnia
 
@@ -121,12 +121,12 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/8832e7ef-325b-49b1-aa
 ## 5. Anonimizar dados sensíveis de determinada imagem DICOM
 Esta etapa tem como objetivo realizar a operação para anonimizar dados sensíveis da imagem. 
 
-   - `1`.  Clicar no filter POST. 
-   - `2`.  Após clicar no botao filter POST, clique no quadrado onde possui um arquivo como demostração de Exemplo (SPECT_1h.dcm).
-   - `3`.  Após clicar no arquivo como demostração de Exemplo (SPECT_1h.dcm), seleciona um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs).
+   - `1`.  Selecione no filter POST. 
+   - `2`.  Após selecionar no botao filter POST, selecione o quadrado onde possui um arquivo como demostração de Exemplo (SPECT_1h.dcm).
+   - `3`.  Após selecionar no arquivo como demostração de Exemplo (SPECT_1h.dcm), selecione um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs).
    - `4`.  Após selecionar um arquivo DICOM no qual o usuário possua ou utilize um dos arquivos de exemplo na pasta do software(Os arquivos testes estao na pasta chamada inputs),selecione o botão Send para gerar uma imagem DICOM com alguns dados sensíveis anonimizados.
 
-   Observação : Se olhar o console no qual o arquivo meta.py será gerada estas informações e a criação da imagem DICOM anonimizada onde sera armazenada na pasta uploads do software
+   Observação : Se observar o console no qual o arquivo meta.py será gerada estas informações e a criação da imagem DICOM anonimizada onde sera armazenada na pasta uploads do software
     
 ### Resposta do Console
    
@@ -152,7 +152,7 @@ Esta etapa tem como objetivo importar a imagem em formato DICOM(.dcm) e segmenta
 
    Observação : Quando compilado o código gera um arquivo chamado segmented_image.nnrd na pasta segmentacao (onde ela esta anonimizada e segmentada).
 
-   ### Local de implementar endereço de imagem
+   ### Local de implementar endereço da imagem
    
    ![Passo 6 2](https://github.com/mncbl/Projeto_back_end/assets/101721101/344b5343-9a8a-4072-8656-8beec4aa6465)
 
@@ -180,7 +180,7 @@ Observação: Quando realizado esta etapa o usuário consegue vizualizar a image
 
  ![Passo 7 1](https://github.com/mncbl/Projeto_back_end/assets/101721101/138cf222-3566-465c-a748-0fbefffc43cd)
 
-### Video Demonstração
+### Video de Demonstração
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/7eabbdad-b491-4e23-8b3f-f164745439ae
 
@@ -193,6 +193,6 @@ https://github.com/mncbl/Projeto_back_end/assets/101721101/7eabbdad-b491-4e23-8b
 Observação: Quando realizado esta etapa o usuário consegue vizualizar os metadados da imagem segmentada. 
 
 
-### Video Demonstração
+### Video de Demonstração
 
 https://github.com/mncbl/Projeto_back_end/assets/101721101/6abfe270-4a24-4f0b-9161-de023be0e46e
