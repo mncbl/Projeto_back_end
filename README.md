@@ -59,8 +59,10 @@ Esta etapa tem como objetivo instalar o software do nosso projeto junto com as i
 
 ### Video de Demonstração
 <video width="320" height="240" controls>
-  <source src="https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9" type="video/mp4">
+  <source src="https://github.com/mncbl/Projeto_back_end/raw/main/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9/nome_do_video.mp4" type="video/mp4">
+  Seu navegador não suporta a exibição de vídeos.
 </video>
+
 
 ## 2. O usuário deve abrir o software em sua IDE
 
