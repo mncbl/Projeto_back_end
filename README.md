@@ -58,7 +58,7 @@ Esta etapa tem como objetivo instalar o software do nosso projeto junto com as i
 [Download Software](https://github.com/mncbl/Projeto_back_end/files/13531238/Software.zip)
 
 ### Video de Demonstração
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls>
   <source src="https://github.com/mncbl/Projeto_back_end/raw/main/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9/nome_do_video.mp4" type="video/mp4">
   Seu navegador não suporta a exibição de vídeos.
 </video>
