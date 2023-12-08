@@ -58,13 +58,9 @@ Esta etapa tem como objetivo instalar o software do nosso projeto junto com as i
 [Download Software](https://github.com/mncbl/Projeto_back_end/files/13531238/Software.zip)
 
 ### Video de Demonstração
-<video width="854" height="480" controls>
-  <source src="https://raw.githubusercontent.com/mncbl/Projeto_back_end/main/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9/nome_do_video.mp4" type="video/mp4">
-  Seu navegador não suporta a exibição de vídeos.
-</video>
+https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9
 
-
-
+](https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9)
 ## 2. O usuário deve abrir o software em sua IDE
 
 Esta etapa tem como objetivo inicializar o software na IDE na qual esta utilzando. 
