@@ -60,7 +60,6 @@ Esta etapa tem como objetivo instalar o software do nosso projeto junto com as i
 ### Video de Demonstração
 https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9
 
-](https://github.com/mncbl/Projeto_back_end/assets/101721101/5acfa16a-b789-4396-a28a-fde692c518b9)
 ## 2. O usuário deve abrir o software em sua IDE
 
 Esta etapa tem como objetivo inicializar o software na IDE na qual esta utilzando. 
